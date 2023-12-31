@@ -1,1 +1,1 @@
-# DjangoTrivia
+# QuizVine
